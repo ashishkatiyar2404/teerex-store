@@ -1,0 +1,38 @@
+.navbar__header {
+  background-color: rgb(85, 85, 151);
+  min-height: 10vh;
+}
+section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar__input_container input {
+  height: 4vh;
+  width: 100%;
+  border-radius: 0.2rem;
+  outline: none;
+  border: none;
+  padding: 0.5rem;
+}
+
+.store__heading h1 {
+  color: bisque;
+}
+
+.navbar__cart {
+  background-color: rgb(39, 39, 77);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.link__cart {
+  color: bisque;
+  text-decoration: none;
+  font-size: large;
+}
+
+/* .cart__icons {
+  color: bisque;
+} */
